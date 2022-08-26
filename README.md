@@ -14,7 +14,7 @@
 
 ### case2. 수동설치
 ```bash
-git clone https://github.com/tunib-ai/oslo.git
+git clone https://github.com/EleutherAI/oslo.git
 git checkout 85a4ff11816f8319a7344f1e596dd6b3e7592034
 
 cd oslo
